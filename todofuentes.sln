@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todofuentes.Common", "todofuentes.Common\todofuentes.Common.csproj", "{58A7CDEA-8261-4600-84D4-139BCB026DC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todofuentes.Common", "todofuentes.Common\todofuentes.Common.csproj", "{58A7CDEA-8261-4600-84D4-139BCB026DC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todofuentes.Functions", "todofuentes.Functions\todofuentes.Functions.csproj", "{8C59E7F7-1110-4176-847F-3CE604C0245A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todofuentes.Functions", "todofuentes.Functions\todofuentes.Functions.csproj", "{8C59E7F7-1110-4176-847F-3CE604C0245A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "todofuentes.Test", "todofuentes.Test\todofuentes.Test.csproj", "{A23B8E0B-08FD-4681-9D0D-CFE1601160DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "todofuentes.Test", "todofuentes.Test\todofuentes.Test.csproj", "{A23B8E0B-08FD-4681-9D0D-CFE1601160DA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
